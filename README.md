@@ -1,2 +1,2 @@
 # scratcharchive
-My scratch archive
+Get older versions of scratch with my scratch archive. These are also categorized into groups.
